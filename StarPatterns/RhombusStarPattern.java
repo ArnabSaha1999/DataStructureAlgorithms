@@ -11,7 +11,7 @@ public class RhombusStarPattern {
         int col = sc.nextInt();
         sc.close();
         for (int i = 0; i < row; i++) {
-            for (int sp = 0; sp < row - i; sp++) {
+            for (int sp = 1; sp < row - i; sp++) {
                 System.out.print(" ");
             }
             for (int j = 0; j < col; j++) {
