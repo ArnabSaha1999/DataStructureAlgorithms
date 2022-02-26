@@ -9,7 +9,7 @@ public class InvertedLeftTriangleStarPattern {
         int row = sc.nextInt();
         sc.close();
         for (int i = 0; i < row; i++) {
-            for (int sp = row - 1; sp >= row - i; sp--) {
+            for (int sp = 0; sp < i; sp++) {
                 System.out.print(" ");
             }
             for (int j = row - i; j > 0; j--) {
