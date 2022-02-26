@@ -27,7 +27,7 @@ public class HollowSquareStarPattern {
 }
 
 
-*/
+/*
     * * * * *
     *       *
     *       *
