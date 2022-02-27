@@ -36,3 +36,13 @@ public class HollowFullStarPyramidPattern {
         }
     }
 }
+
+/*
+                *
+              *   *
+            *       *
+          *           *
+            *       *
+              *   *
+                *
+*/
