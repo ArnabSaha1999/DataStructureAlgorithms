@@ -19,3 +19,11 @@ class LeftTriangleStarPattern {
         }
     }
 }
+
+/*
+        *
+       **
+      ***
+     ****
+    *****
+*/
