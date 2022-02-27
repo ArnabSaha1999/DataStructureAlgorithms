@@ -12,13 +12,17 @@ public class HalfStarDiamondPattern {
             for (int sp = 1; sp < row - i; sp++) {
                 System.out.print(" ");
             }
-            for (int j = 0; j < 2 * i + 1; j++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print("*");
+            }
+            for (int k = 0; k < i; k++) {
                 System.out.print("*");
             }
             System.out.println();
         }
     }
 }
+
 
 
 /*
