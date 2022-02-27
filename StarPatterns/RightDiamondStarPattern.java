@@ -22,3 +22,16 @@ public class RightDiamondStarPattern {
         }
     }
 }
+
+
+/*
+    *
+    **
+    ***
+    ****
+    *****
+    ****
+    ***
+    **
+    *
+*/
