@@ -25,3 +25,12 @@ public class HollowRhombusStarPattern {
         }
     }
 }
+
+/*
+        *******
+       *     *
+      *     *
+     *     *
+    *     *
+   *******
+*/
